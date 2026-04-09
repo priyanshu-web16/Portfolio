@@ -1,5 +1,5 @@
 import React from 'react'
-import Nav from './components/nav'
+import Nav from './components/Nav'
 import Profile from './components/Profile'
 import About from './components/About'
 import Skills from './components/Skills/Skills'
